@@ -19,7 +19,7 @@ const ClientLogosMarquee = () => {
     company7,
   ];
   return (
-    <section className="py-16 bg-[#FAFDF0]">
+    <section className="py-16">
       <div className="max-w-6xl mx-auto px-4 text-center">
         <h2 className="text-3xl font-bold text-primary mb-8">
           We've helped thousands of sales teams
